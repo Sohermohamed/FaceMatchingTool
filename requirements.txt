@@ -1,0 +1,5 @@
+PySide6>=6.5.0
+insightface>=0.7.3
+onnxruntime>=1.15.0
+opencv-python>=4.8.0
+numpy>=1.24.0
